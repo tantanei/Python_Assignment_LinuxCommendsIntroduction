@@ -38,6 +38,7 @@ top
 
 <img width="1210" height="254" alt="image" src="https://github.com/user-attachments/assets/a4ffeade-3ef4-4863-b4c9-2f6ae50a531b" />
 (필자의 시행화면)
+
 ---
 
 ## 2. `ps` 
@@ -81,8 +82,8 @@ ps -ef
 - `COMMAND`: 실행된 명령어
 
 
-
-
+(필자의 시행화면)
+<img width="1192" height="170" alt="스크린샷 2026-06-23 133640" src="https://github.com/user-attachments/assets/1418a791-b014-45cf-8331-b3a952d43a4a" />
 
 
 ---
@@ -115,7 +116,8 @@ jobs
 * `fg`: 백그라운드 작업을 포그라운드로 가져옴
 * `bg`: 일시 정지된 작업을 백그라운드에서 계속 실행
 
-
+(필자의 시행화면)
+<img width="1210" height="210" alt="스크린샷 2026-06-23 133939" src="https://github.com/user-attachments/assets/3537a7c6-2928-43b5-bdb8-fed5a90843ec" />
 
 
 
